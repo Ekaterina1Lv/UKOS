@@ -1,0 +1,35 @@
+h2 {
+    color: black;
+}
+body{
+    background-color: grey;
+}
+.about-me {
+    background-color: red;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 2px;
+    padding-bottom: 2px;
+    text-align: left;
+}
+
+.hobby-list {
+    list-style-type: upper-roman;
+}
+table{
+    width: 50%;
+    border: 1px;
+    border: solid black;
+}
+.hobby{
+    list-style-type: upper-roman;
+    width: 50%;
+    border: 1px;
+    border: solid black;
+}
+form{
+    background-color:#0066ff ;
+    width: 65%;
+    border: 2px;
+    border: solid white;
+}
